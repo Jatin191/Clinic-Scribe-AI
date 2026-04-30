@@ -3,7 +3,7 @@ CLINICAL SCRIBE AI (GEMINI VERSION) — README
 OVERVIEW This project converts a doctor-patient consultation transcript
 into a structured SOAP note with ICD-10 code using Gemini (free model).
 
-FILES - app_gemini.py → Streamlit web app - clinical_scribe_gemini.py →
+FILES - app_gemini.py → Streamlit web app - app_gemini.py →
 CLI script - requirements_gemini.txt → Dependencies - README_GEMINI.txt
 → This file
 
@@ -26,19 +26,19 @@ STEP 4: Set API Key(Optional if you want to run in virtual than do this)
 
 STEP 5: Run Streamlit App 
 
-python -m pip install -r requirements_gemini.txt
 python -m streamlit run app_gemini.py
 
 Open in browser: http://localhost:8501
 
-STEP 6: Use Application - Choose sample consultation OR paste your own -
+STEP 6: Past the API Key in the given slot
+
+STEP 7: Use Application - Choose sample consultation ,uplode a consultation.txt, uplode a consultation.mp3 OR do live recording -
 Click “Generate SOAP Note” - View output - Download JSON
 
 
 COMMON ERRORS
 
-1.  No module found → Run install again: python -m pip install -r
-    requirements_gemini.txt
+1.  No module found → Run install again: python -m pip install -r requirements_gemini.txt
 
 2.  GEMINI_API_KEY not set → Set environment variable again
 

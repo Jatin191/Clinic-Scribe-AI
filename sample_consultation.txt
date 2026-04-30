@@ -1,0 +1,71 @@
+SAMPLE DOCTOR-PATIENT CONSULTATION TRANSCRIPT
+Duration: ~2.5 minutes
+Date: April 23, 2026
+
+[Doctor enters the room]
+
+Doctor: Good morning! I'm Dr. Sharma. How are you doing today?
+
+Patient: Not great, honestly. I've been feeling really unwell for the past four days.
+
+Doctor: I'm sorry to hear that. Can you tell me what's been bothering you most?
+
+Patient: It started with a really bad sore throat — like, painful to swallow. Then I got a fever. I've been checking my temperature at home and it's been around 38.8 to 39.2 degrees Celsius. I also have this splitting headache and I just feel exhausted all the time.
+
+Doctor: Any cough or runny nose?
+
+Patient: No, actually, that's what's weird. No cough at all, no runny nose. Just the throat, fever, and headache.
+
+Doctor: Have you noticed any swelling in your neck?
+
+Patient: Yes! Actually yes. My wife noticed my neck looked a bit puffy on both sides. And it's tender when I press it.
+
+Doctor: Any rash anywhere on your body?
+
+Patient: Hmm... actually, yes. Yesterday I noticed a kind of rough, sandpapery rash on my chest and stomach. It's not itchy but it's definitely there.
+
+Doctor: Okay. Any nausea or vomiting?
+
+Patient: A little nausea, yes. No vomiting though.
+
+Doctor: Any sick contacts? Anyone around you been unwell?
+
+Patient: My 8-year-old daughter had a sore throat about a week ago. She recovered quickly though.
+
+Doctor: Alright. Any medical history I should know about? Any allergies?
+
+Patient: I'm generally healthy. No major conditions. I'm allergic to penicillin — I get hives with it.
+
+Doctor: Good to know, very important. Any medications currently?
+
+Patient: Just paracetamol for the fever. Nothing else.
+
+Doctor: Let me examine you now.
+
+[Examination begins]
+
+Doctor: Opening your mouth wide for me... Yes, I can see significant erythema of the posterior pharynx, and there is tonsillar enlargement bilaterally with what appears to be white exudates on both tonsils. 
+
+Palpating your neck... yes, there is bilateral tender cervical lymphadenopathy, most prominent in the anterior chain.
+
+Let me check your temperature... 38.9 degrees. Heart rate is 102 beats per minute, blood pressure 118 over 76, respiratory rate 18, oxygen saturation 98% on room air.
+
+Looking at the rash on your chest... yes, this has a classic sandpaper texture, blanches on pressure, with a circumoral pallor and what looks like a Pastia's lines in the skin folds. This is consistent with scarlatiniform rash.
+
+Doctor: Based on your symptoms and examination, I strongly suspect you have Group A Streptococcal pharyngitis — what people commonly call Strep throat — with the associated scarlet fever rash. The clinical picture is quite classic: the exudative tonsillitis, the fever, the lymphadenopathy, and especially that sandpaper rash.
+
+Patient: Is that serious?
+
+Doctor: It's very treatable. Since you're allergic to penicillin, I'll prescribe you Azithromycin — a Z-pack — 500 mg on day one, then 250 mg once daily for four more days. I'd also like to do a rapid strep test today to confirm, and we'll send a throat culture as well.
+
+Patient: What about my daughter?
+
+Doctor: Good question. Since she had a sore throat recently, it's worth having your family doctor check her too. Strep can spread within households.
+
+Doctor: Take plenty of rest, stay well hydrated, continue paracetamol for fever and pain relief. You should start feeling significantly better within 48 hours of starting the antibiotics. I want you to come back or contact us if you develop difficulty breathing, severe neck stiffness, drooling, or if you're not improving after 48 hours on antibiotics.
+
+Patient: Okay, thank you so much, Doctor.
+
+Doctor: You're welcome. Take care and feel better soon!
+
+[End of consultation]
